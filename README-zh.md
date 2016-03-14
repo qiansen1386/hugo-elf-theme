@@ -1,4 +1,4 @@
-# ELF theme for hugo
+# hugo Elf 主题
 ```
                ██████████       
               ████████████      
@@ -27,16 +27,14 @@
    
   Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
 ```
-A new [Hugo](http://gohugo.io/) theme based on semantic UI. Inspired by the incredible [Casper theme for Ghost ](https://github.com/TryGhost/Casper).
+基于 Semantic UI 制作的全新 [Hugo](http://gohugo.io/) 主题。受 
+[Ghost の Casper 主题](https://github.com/TryGhost/Casper)以及 [Hugo の Casper 主题](http://themes.gohugo.io/casper/)启发。
 
-# The idea
+## 理念
 
-Based on Semantic UI, so I guess it should not be too ugly. This project is not intented to put any of well-designed element at all.
-I probably will make use of many popular front-end technology, such as gulp, WebPack, TypeScript, Less, SCSS, PostCSS. Of course I know nono of them so far, LOL.╮(￣▽￣")╭ 
-But anyway, I am both ignorant and fearless.
-Speaking of advantages......Em, None! Don't use it at all, it is definitely not worth your attention.
+基于 Semantic UI，差不到哪里去吧，除此以外反正没有任何美学设计╮(￣▽￣")╭ 。各种前端黑科技，比如 gulp WebPack TypeScript Less SCSS PostCSS 一通乱堆。反正不怂就是干！
+要说有点优点嘛。可能多语言支持会好一些吧？
 
-## About me
+## 关于作者
 
-I am a newbie in frontend development, of course I can only produce trash. If you see stupid implementations(sure there are many of them), 
-please don't beat me to death and spare me my life. Allow me to continue to contribute (crap) to Open-Source society.
+由于我是个前端菜鸟，前端写得很蠢。如果大家看到有非常愚昧的写法，请不要打死我。打个半死就好。让我留有用之身，继续为开源奉献。

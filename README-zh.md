@@ -24,8 +24,7 @@
                     ▄████▄  ██
                     ██████   ▀
                     ▀▄▄▄▄▀
-   
-  Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
+  东方孤思子荣誉出品  ٩(˘◡˘)۶
 ```
 基于 Semantic UI 制作的全新 [Hugo](http://gohugo.io/) 主题。受 
 [Ghost の Casper 主题](https://github.com/TryGhost/Casper)以及 [Hugo の Casper 主题](http://themes.gohugo.io/casper/)启发。

@@ -24,10 +24,9 @@
                     ▄████▄  ██
                     ██████   ▀
                     ▀▄▄▄▄▀
-   
-  Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
+Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
 ```
-A new [Hugo](http://gohugo.io/) theme based on semantic UI. Inspired by the incredible [Casper theme for Ghost ](https://github.com/TryGhost/Casper).
+A new [Hugo](http://gohugo.io/) theme based on semantic UI. Inspired by the incredible [Casper theme for Ghost](https://github.com/TryGhost/Casper).
 
 # The idea
 

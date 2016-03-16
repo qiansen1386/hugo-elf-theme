@@ -26,12 +26,12 @@
                     ▀▄▄▄▄▀
   东方孤思子荣誉出品  ٩(˘◡˘)۶
 ```
-基于 Semantic UI 制作的全新 [Hugo](http://gohugo.io/) 主题。受 
+基于 ~~Semantic UI~~ Bootstrap 制作的全新 [Hugo](http://gohugo.io/) 主题。受 
 [Ghost の Casper 主题](https://github.com/TryGhost/Casper)以及 [Hugo の Casper 主题](http://themes.gohugo.io/casper/)启发。
 
 ## 理念
 
-基于 Semantic UI，差不到哪里去吧，除此以外反正没有任何美学设计╮(￣▽￣")╭ 。各种前端黑科技，比如 gulp WebPack TypeScript Less SCSS PostCSS 一通乱堆。反正不怂就是干！
+基于 Semantic UI，差不到哪里去吧，除此以外反正没有任何美学设计╮(￣▽￣")╭ 。各种前端黑科技，比如 gulp WebPack TypeScript SCSS PostCSS 一通乱堆。反正不怂就是干！
 要说有点优点嘛。可能多语言支持会好一些吧？
 
 ## 关于作者

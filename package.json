@@ -1,7 +1,7 @@
 {
-  "name": "hugo-elf-theme",
+  "name": "hugo-polygon-theme",
   "version": "0.0.1",
-  "description": "a elf theme",
+  "description": "a polygon theme",
   "main": "\"\"",
   "dependencies": {
     "jquery": "^2.2.1",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiansen1386/hugo-elf-theme"
+    "url": "https://github.com/qiansen1386/hugo-polygon-theme"
   },
   "keywords": [
     "hugo",
     "theme",
-    "elf"
+    "polygon"
   ],
   "author": "Paris Qian Sen",
   "license": "MIT"

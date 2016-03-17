@@ -1,4 +1,4 @@
-# ELF theme for hugo
+# POLYGON theme for hugo
 ```
                ██████████       
               ████████████      
@@ -31,7 +31,7 @@ A new [Hugo](http://gohugo.io/) theme based on ~~semantic UI~~ Bootstrap. Inspir
 # The idea
 
 Based on Semantic UI, so I guess it should not be too ugly. This project is not intented to put any of well-designed element at all.
-I probably will make use of many popular front-end technology, such as gulp, WebPack, TypeScript, Less, SCSS, PostCSS. Of course I know nono of them so far, LOL.╮(￣▽￣")╭ 
+I probably will make use of many popular front-end technology, such as gulp, WebPack, TypeScript, SCSS, PostCSS. Of course I know nono of them so far, LOL.╮(￣▽￣")╭ 
 But anyway, I am both ignorant and fearless.
 Speaking of advantages......Em, None! Don't use it at all, it is definitely not worth your attention.
 

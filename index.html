@@ -34,8 +34,8 @@ Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
     <!-- Required meta tags always come first -->
     <!-- No one should ever use any Charset other than utf-8-->
     <meta charset="utf-8">
-    <!-- Someone says chrome=1 is no longer valid @ 2016 -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Someone says chrome=1 is no longer valid @ 2016 AND according to HTML5 spec this tag is invalid-->
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <!-- @details: https://developers.google.com/speed/docs/insights/ConfigureViewport?hl=zh-cn -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -46,8 +46,7 @@ Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
     <meta name="author" content="Paris Qian">
 
     <!-- Site Properties -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/4.0.0/normalize.min.css" type="text/css" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="src/css/main.css" type="text/css" />
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -63,7 +62,7 @@ Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
         <a href="http://browsehappy.com/?locale=zh">升级您的浏览器到任意一款主流浏览器</a>，则您将可以享用近十年来互联网技术发展的卓越成果。恕本站不对 IE 浏览器用户的最终视觉效果做任何保证，如果您发现您的页面一片杂乱请自觉砸烂电脑，不要反馈Bug，谢谢您的合作。
     </p>
     <div class="container">
-      <div class="header clearfix">
+      <header class="header clearfix" style="background-image: url('assets/img/legal/bg-header.jpg')">
         <nav>
           <ul class="nav nav-pills pull-xs-right">
             <li class="nav-item active">
@@ -77,14 +76,13 @@ Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
             </li>
           </ul>
         </nav>
-        <h3 class="text-muted">博客</h3>
-      </div>
+        <h3 class="text-muted">晨月小屋</h3>
 
-      <div class="jumbotron">
+      <div class="jumbotron  jumbotron-fluid">
         <h1 class="display-3">东方孤思子の博客</h1>
         <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
       </div>
-
+      </header>
       <div class="row marketing">
         <div class="col-lg-12">
           <h4>Subheading</h4>
@@ -261,7 +259,7 @@ Brought you by Paris Qian, Peace!  ٩(˘◡˘)۶
     </div>
     <!-- jQuery first, then Bootstrap JS. -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/js/bootstrap.min.js" integrity="sha384-vZ2WRJMwsjRMW/8U7i6PWi6AlO1L79snBrmgiDpgIWJ82z8eA5lenwvxbMV1PAh7" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/latest/js/bootstrap.js"></script>
     <!-- For developing, then should be migrated to webpack build -->
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/typescript/1.8.9/typescript.min.js"></script>
     <script type="text/typescript" src="src/js/main.ts"></script>
